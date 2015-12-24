@@ -1,0 +1,6 @@
+{
+    "repos": "https://github.com/ramda/ramda",
+    "version": "v0.18.0",
+    "main": "ramda.js",
+    "name": "ramda"
+}
